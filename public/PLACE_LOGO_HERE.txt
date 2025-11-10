@@ -1,0 +1,20 @@
+📁 LOGO INSTRUCTIONS
+===================
+
+Please save your Growth Lab logo in this directory as:
+
+  logo.png
+
+Requirements:
+- Format: PNG (with transparent background recommended)
+- Recommended size: 500x500px or similar square aspect ratio
+- File name must be exactly: logo.png
+
+The logo will be used in:
+- Navigation header (50x50px display size)
+- Footer (40x40px display size)
+
+A temporary placeholder logo.svg has been created, but you should replace it with your actual logo.png file.
+
+Once you add logo.png, delete or ignore this instruction file.
+
